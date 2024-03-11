@@ -1,3 +1,29 @@
+.main {
+  padding: 25px;
+}
+
+.heading {
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 2%;
+  margin: 0 0 10px;
+}
+
+.content {
+  /* background-color: antiquewhite; */
+  padding: 10px;
+  border-radius: 2%;
+  margin: 0 0 10px;
+}
+
+.footer {
+  /* background-color: antiquewhite;  */
+  padding: 10px;
+  border-radius: 2%;
+  text-align: center;
+  margin: 0 0 0;
+}
+
 h1 {
   color: red;
   text-align: center;
